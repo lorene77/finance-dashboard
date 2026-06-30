@@ -7,8 +7,8 @@
 
 /* ── Design Tokens ─────────────────────────────────────────── */
 :root {
-  --color-primary:       #1e3a5f;
-  --color-primary-hover: #162d4a;
+  --color-primary:       #006e51;
+  --color-primary-hover: #005540;
   --color-accent:        #2563eb;
   --color-green:         #10b981;
   --color-amber:         #f59e0b;
